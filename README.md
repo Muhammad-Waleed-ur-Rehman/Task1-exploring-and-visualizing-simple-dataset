@@ -1,7 +1,7 @@
-# Task 1: Exploration and Visualization of Simple Dataset of IRIS
+# Task 1: Exploration and Visualization of Simple Dataset
 
-
-## Objective
+## IRIS Data set Exploration and Visualisation
+## Task objective
 
 To perform exploratory data analysis (EDA) on the Iris dataset and visualize feature distributions, relationships, and outliers using Python.
 
